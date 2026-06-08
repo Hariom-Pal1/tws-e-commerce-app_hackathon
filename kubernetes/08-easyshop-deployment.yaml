@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: easyshop
-          image: hariompal4/easyshop-app
+          image: hariompal4/easyshop-app:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
