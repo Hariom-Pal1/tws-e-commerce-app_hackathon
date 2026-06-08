@@ -19,18 +19,18 @@ const ContactPage = () => {
           <div>
             <h4 className="font-semibold mb-1">Address</h4>
             <p className="text-sm text-muted-foreground">
-              Bihar, India
+              UP , India
             </p>
           </div>
 
           <div className="mt-4">
             <h4 className="font-semibold mb-1">Phone</h4>
-            <p className="text-sm text-muted-foreground">+91 9400344657</p>
+            <p className="text-sm text-muted-foreground">+91 8081469939</p>
           </div>
 
           <div className="mt-4">
             <h4 className="font-semibold mb-1">Email Address</h4>
-            <p className="text-sm text-muted-foreground">iemafzalhassan@gmail.com</p>
+            <p className="text-sm text-muted-foreground">hariompal483@gmail.com</p>
           </div>
           <div className="mt-4">
             <h3 className="font-semibold">Follow Me</h3>
