@@ -8,8 +8,8 @@ spec:
     apiVersion: apps/v1
     kind: Deployment
     name: easyshop
-  minReplicas: 100
-  maxReplicas: 110
+  minReplicas: 0
+  maxReplicas: 0
   metrics:
     - type: Resource
       resource:
