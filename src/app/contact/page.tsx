@@ -41,7 +41,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://github.com/iemafzalhassan"
+                  href="https://github.com/Hariom_pal4"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -54,7 +54,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://www.linkedin.com/in/iemafzalhassan"
+                  href="https://www.linkedin.com/in/Hariompal483"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -67,7 +67,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://twitter.com/iemafzalhassan"
+                  href="https://twitter.com/HariomP11759529"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
