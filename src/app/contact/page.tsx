@@ -41,7 +41,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://github.com/Hariom_pal4"
+                  href="https://github.com/Hariom-Pal1"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
